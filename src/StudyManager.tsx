@@ -1,6 +1,7 @@
+import { AppRouter } from "./router/AppRouter"
 
 export const StudyManager = () => {
   return (
-    <div>StudyManager</div>
+   <AppRouter />
   )
 }
