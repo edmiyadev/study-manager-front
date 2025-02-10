@@ -1,4 +1,4 @@
-import { authSlice } from '@/slices/auth/authSlice'
+import { authSlice } from '@/store/slices/auth/authSlice'
 import { configureStore } from '@reduxjs/toolkit'
 
 export const store = configureStore({
